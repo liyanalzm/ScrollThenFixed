@@ -1,2 +1,0 @@
-# ScrollThenFixed
-Created with CodeSandbox
