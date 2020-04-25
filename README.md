@@ -10,10 +10,10 @@ This component should allow a component that the height is overflown
  Examples:
  
  1. Element will stick to bottom of page once done scrolling
-![Element stick to bottom as scrolling](/Element stick to bottom as scrolling.gif)
+![Element stick to bottom as scrolling](Element stick to bottom as scrolling.gif)
 
 2. Element will stick to top of page if element height is less than viewport height
-![Element stick to top](/Element less than viewport.gif)
+![Element stick to top](Element less than viewport.gif)
 
 3. Element will remain as it is if the element height is larger than other element
-![Element remain as it is](/element more than others.gif)
+![Element remain as it is](element more than others.gif)
